@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @BAIMYOLO
 - 👀 I’m interested in crypto ecosystem
 - 🌱 I’m currently learning node and testnet
-- 💞️ I’m looking to collaborate on binance labs
-- 📫 How to reach me figa08.fi@gmail.com
-- 😄 Pronouns: -
 - ⚡ Fun fact: i dont like lemongrass
 
 <!---
